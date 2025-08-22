@@ -1,4 +1,2 @@
 Trabalhos feitos em PowerBI:
-**Power Query**
-**Linguagem DAX**
-**Dashboard**
+**Power Query, Linguagem DAX, Dashboard**
